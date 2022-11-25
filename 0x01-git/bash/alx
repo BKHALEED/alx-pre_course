@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX school is so cool"
+=======
+<<<<<<< HEAD
+echo "ALX School"
+=======
+echo "ALX school is so cool"
+>>>>>>> master
+>>>>>>> update_script
